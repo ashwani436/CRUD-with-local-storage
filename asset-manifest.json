@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CRUD-with-local-storage/static/css/main.b981cf69.chunk.css",
+    "main.js": "/CRUD-with-local-storage/static/js/main.7228f921.chunk.js",
+    "main.js.map": "/CRUD-with-local-storage/static/js/main.7228f921.chunk.js.map",
+    "runtime-main.js": "/CRUD-with-local-storage/static/js/runtime-main.96566ef6.js",
+    "runtime-main.js.map": "/CRUD-with-local-storage/static/js/runtime-main.96566ef6.js.map",
+    "static/js/2.3f0a7695.chunk.js": "/CRUD-with-local-storage/static/js/2.3f0a7695.chunk.js",
+    "static/js/2.3f0a7695.chunk.js.map": "/CRUD-with-local-storage/static/js/2.3f0a7695.chunk.js.map",
+    "index.html": "/CRUD-with-local-storage/index.html",
+    "static/css/main.b981cf69.chunk.css.map": "/CRUD-with-local-storage/static/css/main.b981cf69.chunk.css.map",
+    "static/js/2.3f0a7695.chunk.js.LICENSE.txt": "/CRUD-with-local-storage/static/js/2.3f0a7695.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96566ef6.js",
+    "static/js/2.3f0a7695.chunk.js",
+    "static/css/main.b981cf69.chunk.css",
+    "static/js/main.7228f921.chunk.js"
+  ]
+}
