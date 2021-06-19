@@ -1,6 +1,6 @@
 {
   "name": "contactlist",
-  "homepage": "https://ashwani436.github.io/birthday-card",
+  "homepage": "https://ashwani436.github.io/CRUD-with-local-storage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,6 @@
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
     "emailjs-com": "^3.1.0",
-    "gh-pages": "^3.2.1",
     "graphql": "^15.5.0",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
@@ -28,7 +27,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -51,5 +50,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.2"
   }
 }
